@@ -3,4 +3,5 @@ dependencies:
   - numpy==1.18.1
   - scipy==1.4.1
   - Cartopy==0.18.0
-
+  - requests
+  - geojson
